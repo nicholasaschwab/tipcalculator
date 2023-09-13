@@ -1,0 +1,5 @@
+def tip(total_bill, tip_percentage):
+  return total_bill * (tip_percentage / 100)
+
+# replace your total bill and desired tip percentage here
+print(100, 30)
